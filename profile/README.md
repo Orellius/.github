@@ -25,5 +25,5 @@
 <p align="center"><i>Building something new. Watch this space.</i></p>
 
 <p align="center">
- All project at: <a href="https://github.com/Orellius-Archive"><b>Orellius-Archive</b></a> - previous work (19 projects, all retired)
+ All projects at: <a href="https://github.com/Orellius-Archive"><b>Orellius-Archive</b></a> - previous work (19 projects, all retired)
 </p>
