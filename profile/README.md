@@ -1,5 +1,5 @@
 <h1 align="center">Orel Ohayon</h1>
-<p align="center">Self-taught developer shipping solo with AI-augmented workflows.</p>
+<p align="center">Infrastructure builder. Tauri, Rust, React, AI orchestration.</p>
 
 <p align="center">
   <a href="https://orellius.ai"><img src="https://img.shields.io/badge/orellius.ai-000?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
@@ -9,20 +9,21 @@
 
 ---
 
-<h3 align="center">Daily Drivers</h3>
+<h3 align="center">Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri">
-  <img src="https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
 ---
 
+<p align="center"><i>Building something new. Watch this space.</i></p>
+
 <p align="center">
-  <a href="https://github.com/Orellius-Archive"><b>Orellius-Archive</b></a> — retired & unmaintained projects
+  <a href="https://github.com/Orellius-Archive"><b>Orellius-Archive</b></a> - previous work (19 projects, all retired)
 </p>
