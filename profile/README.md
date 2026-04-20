@@ -1,4 +1,4 @@
-<h1 align="center">Orel Ohayon</h1>
+<h1 align="center">Orellius</h1>
 <p align="center">Infrastructure builder, AI orchestration.</p>
 
 <p align="center">
